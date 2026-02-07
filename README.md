@@ -1,6 +1,6 @@
 # MultiHop-memorybasedAdvancedRAG
 
-# 🕉️ Multi-Hop Hinglish Gita RAG Chatbot
+# Multi-Hop Hinglish Gita RAG Chatbot
 
 A Multi-Hop Retrieval Augmented Generation (RAG) chatbot built on the **Bhagavad Gita**, designed to answer spiritual and life questions in **friendly Hinglish**, using grounded verse-level retrieval, reasoning hops, and conversational memory.
 

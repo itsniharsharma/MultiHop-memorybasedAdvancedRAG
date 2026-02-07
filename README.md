@@ -25,6 +25,9 @@ Built fully in a notebook environment (Kaggle-compatible) without heavy backend 
 
 ---
 
+<img width="1073" height="717" alt="image" src="https://github.com/user-attachments/assets/5520a15f-ac06-4b02-878d-040a89efa224" />
+
+
 # 🧠 System Architecture
 
 ```
